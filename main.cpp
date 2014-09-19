@@ -1,3 +1,8 @@
+/*
+ * (c)2014 James Hudson - www.disconnectionist.com
+ * Released under GPL v2.0
+ */
+
 #include "mainwindow.h"
 #include <QApplication>
 
